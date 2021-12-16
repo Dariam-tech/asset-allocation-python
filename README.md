@@ -1,3 +1,5 @@
 # asset allocation python project
 ## Installation
 run 'python install -r requirements.txt'
+
+[Description.pdf](https://github.com/Dariam-tech/asset-allocation-python/files/7728409/Description.pdf)
