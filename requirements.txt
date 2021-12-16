@@ -1,0 +1,12 @@
+#python -m venv env                                                                                                                                                             17:39:35
+#source env/bin/activate                                                                                                                                                      4s 17:41:42
+#pip install -r requirements.txt
+
+numpy
+xlrd
+scikit-learn
+pandas
+boruta
+matplotlib
+seaborn
+openpyxl
