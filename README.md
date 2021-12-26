@@ -1,4 +1,4 @@
-# asset allocation python project
+# asset allocation strategy python project
 ## Installation
 run 'python install -r requirements.txt'
 
